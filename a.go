@@ -2,7 +2,7 @@ package A
 
 import "github.com/vbnetvbnet/B"
 
-const version = "1.0"
+const version = "1.1"
 
 
 func Version() string {
